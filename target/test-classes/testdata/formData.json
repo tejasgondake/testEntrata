@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Tejas",
+    "lastName": "Gondake",
+    "email": "tejasgondake.work@gmail.com",
+    "company": "Cognizant",
+    "phone": "1234567890",
+    "jobTitle": "QA Engineer",
+    "expectedValue": 109
+  },
+  {
+    "firstName": "Yash",
+    "lastName": "Sawant",
+    "email": "Yash.sawant@gmail.com",
+    "company": "Cognizant",
+    "phone": "1134567890",
+    "jobTitle": "Automation Tester",
+    "expectedValue": 2500
+  }
+]

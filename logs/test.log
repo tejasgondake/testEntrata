@@ -1,0 +1,67 @@
+2025-07-04 22:21:00 [main] INFO  DownloadGuide:25 - ===== Starting test: testForm =====
+2025-07-04 22:21:06 [main] INFO  DownloadGuide:41 - Filling form with test data: Tejas, Gondake, tejasgondake.work@gmail.com
+2025-07-04 22:21:07 [main] INFO  DownloadGuide:45 - Form filled successfully with unit count: 109
+2025-07-04 22:21:07 [main] INFO  DownloadGuide:47 - ===== Test completed: testForm =====
+2025-07-04 22:21:37 [main] INFO  DownloadGuide:25 - ===== Starting test: testForm =====
+2025-07-04 22:21:43 [main] INFO  DownloadGuide:41 - Filling form with test data: Yash, Sawant, Yash.sawant@gmail.com
+2025-07-04 22:21:43 [main] INFO  DownloadGuide:45 - Form filled successfully with unit count: 2500
+2025-07-04 22:21:43 [main] INFO  DownloadGuide:47 - ===== Test completed: testForm =====
+2025-07-04 22:45:08 [main] INFO  Listeners:55 - Starting Test Suite: Test
+2025-07-04 22:45:31 [main] INFO  Listeners:18 - Test started: testDownloadGuideForm
+2025-07-04 22:45:31 [main] INFO  DownloadGuide:30 - ===== Starting test: testForm =====
+2025-07-04 22:45:35 [main] INFO  DownloadGuide:46 - Filling form with test data: Tejas, Gondake, tejasgondake.work@gmail.com
+2025-07-04 22:45:36 [main] INFO  DownloadGuide:50 - Form filled successfully with unit count: 109
+2025-07-04 22:45:36 [main] INFO  DownloadGuide:52 - ===== Test completed: testForm =====
+2025-07-04 22:45:36 [main] INFO  Listeners:25 - Test passed: testDownloadGuideForm
+2025-07-04 22:45:55 [main] INFO  Listeners:18 - Test started: testDownloadGuideForm
+2025-07-04 22:45:55 [main] INFO  DownloadGuide:30 - ===== Starting test: testForm =====
+2025-07-04 22:46:00 [main] INFO  DownloadGuide:46 - Filling form with test data: Yash, Sawant, Yash.sawant@gmail.com
+2025-07-04 22:46:01 [main] INFO  DownloadGuide:50 - Form filled successfully with unit count: 2500
+2025-07-04 22:46:01 [main] INFO  DownloadGuide:52 - ===== Test completed: testForm =====
+2025-07-04 22:46:01 [main] INFO  Listeners:25 - Test passed: testDownloadGuideForm
+2025-07-04 22:46:01 [main] INFO  Listeners:62 - Finished Test Suite: Test
+2025-07-04 22:47:51 [main] INFO  Listeners:55 - Starting Test Suite: Test
+2025-07-04 22:48:12 [main] INFO  Listeners:18 - Test started: forceFailTest
+2025-07-04 22:48:12 [main] ERROR Listeners:32 - Test FAILED: forceFailTest
+2025-07-04 22:48:13 [main] INFO  Listeners:38 - Screenshot captured for failed test: forceFailTest
+2025-07-04 22:48:34 [main] INFO  Listeners:18 - Test started: testDownloadGuideForm
+2025-07-04 22:48:34 [main] INFO  DownloadGuide:35 - ===== Starting test: testForm =====
+2025-07-04 22:48:39 [main] INFO  DownloadGuide:51 - Filling form with test data: Tejas, Gondake, tejasgondake.work@gmail.com
+2025-07-04 22:48:39 [main] INFO  DownloadGuide:55 - Form filled successfully with unit count: 109
+2025-07-04 22:48:39 [main] INFO  DownloadGuide:57 - ===== Test completed: testForm =====
+2025-07-04 22:48:39 [main] INFO  Listeners:25 - Test passed: testDownloadGuideForm
+2025-07-04 22:48:56 [main] INFO  Listeners:18 - Test started: testDownloadGuideForm
+2025-07-04 22:48:56 [main] INFO  DownloadGuide:35 - ===== Starting test: testForm =====
+2025-07-04 22:49:10 [main] INFO  DownloadGuide:51 - Filling form with test data: Yash, Sawant, Yash.sawant@gmail.com
+2025-07-04 22:49:11 [main] INFO  DownloadGuide:55 - Form filled successfully with unit count: 2500
+2025-07-04 22:49:11 [main] INFO  DownloadGuide:57 - ===== Test completed: testForm =====
+2025-07-04 22:49:11 [main] INFO  Listeners:25 - Test passed: testDownloadGuideForm
+2025-07-04 22:49:11 [main] INFO  Listeners:62 - Finished Test Suite: Test
+2025-07-04 23:04:31 [main] INFO  Listeners:66 - Starting Test Suite: Test
+2025-07-04 23:04:49 [main] INFO  Listeners:24 - Test started: testDownloadGuideForm
+2025-07-04 23:04:49 [main] INFO  DownloadGuide:32 - ===== Starting test: testForm =====
+2025-07-04 23:04:58 [main] INFO  DownloadGuide:48 - Filling form with test data: Tejas, Gondake, tejasgondake.work@gmail.com
+2025-07-04 23:04:58 [main] INFO  DownloadGuide:52 - Form filled successfully with unit count: 109
+2025-07-04 23:04:58 [main] INFO  DownloadGuide:54 - ===== Test completed: testForm =====
+2025-07-04 23:04:58 [main] INFO  Listeners:33 - Test passed: testDownloadGuideForm
+2025-07-04 23:05:17 [main] INFO  Listeners:24 - Test started: testDownloadGuideForm
+2025-07-04 23:05:17 [main] INFO  DownloadGuide:32 - ===== Starting test: testForm =====
+2025-07-04 23:05:21 [main] INFO  DownloadGuide:48 - Filling form with test data: Yash, Sawant, Yash.sawant@gmail.com
+2025-07-04 23:05:22 [main] INFO  DownloadGuide:52 - Form filled successfully with unit count: 2500
+2025-07-04 23:05:22 [main] INFO  DownloadGuide:54 - ===== Test completed: testForm =====
+2025-07-04 23:05:22 [main] INFO  Listeners:33 - Test passed: testDownloadGuideForm
+2025-07-04 23:05:22 [main] INFO  Listeners:73 - Finished Test Suite: Test
+2025-07-04 23:22:35 [main] INFO  Listeners:66 - Starting Test Suite: Test
+2025-07-04 23:22:51 [main] INFO  Listeners:24 - Test started: testDownloadGuideForm
+2025-07-04 23:22:51 [main] INFO  DownloadGuide:32 - ===== Starting test: testForm =====
+2025-07-04 23:22:56 [main] INFO  DownloadGuide:48 - Filling form with test data: Tejas, Gondake, tejasgondake.work@gmail.com
+2025-07-04 23:22:57 [main] INFO  DownloadGuide:52 - Form filled successfully with unit count: 109
+2025-07-04 23:22:57 [main] INFO  DownloadGuide:58 - ===== Test completed: testForm =====
+2025-07-04 23:22:57 [main] INFO  Listeners:33 - Test passed: testDownloadGuideForm
+2025-07-04 23:23:15 [main] INFO  Listeners:24 - Test started: testDownloadGuideForm
+2025-07-04 23:23:15 [main] INFO  DownloadGuide:32 - ===== Starting test: testForm =====
+2025-07-04 23:23:18 [main] INFO  DownloadGuide:48 - Filling form with test data: Yash, Sawant, Yash.sawant@gmail.com
+2025-07-04 23:23:19 [main] INFO  DownloadGuide:52 - Form filled successfully with unit count: 2500
+2025-07-04 23:23:19 [main] INFO  DownloadGuide:58 - ===== Test completed: testForm =====
+2025-07-04 23:23:19 [main] INFO  Listeners:33 - Test passed: testDownloadGuideForm
+2025-07-04 23:23:19 [main] INFO  Listeners:73 - Finished Test Suite: Test
