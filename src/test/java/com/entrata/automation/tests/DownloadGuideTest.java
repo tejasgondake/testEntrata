@@ -17,8 +17,8 @@ import com.entrata.automation.testcomponents.BaseTest;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class DownloadGuide extends BaseTest {
-	private static final Logger logger = LogManager.getLogger(DownloadGuide.class);
+public class DownloadGuideTest extends BaseTest {
+	private static final Logger logger = LogManager.getLogger(DownloadGuideTest.class);
 
 //	@Test
 //	public void forceFailTest() {

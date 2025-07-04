@@ -3,7 +3,11 @@
   <groupId>com.entrata.test</groupId>
   <artifactId>entrata-testing-framework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <configuration>
+                <suiteXmlFiles>
+                    <suiteXmlFile>testng.xml</suiteXmlFile>
+                </suiteXmlFiles>
+            </configuration>
  
 <dependencies>
  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
@@ -48,6 +52,8 @@
     <artifactId>extentreports</artifactId>
     <version>5.1.2</version>
 </dependency>
+
+  
     
 </dependencies>
   
