@@ -1,0 +1,3 @@
+com\entrata\automation\utils\CommonUtils.class
+com\entrata\automation\pages\LandingPage.class
+com\entrata\automation\pages\GuidePage.class
